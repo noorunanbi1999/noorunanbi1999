@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning React js,Java,Flask
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 You can reach out to me by email noorunnabi!999@gmail.com
+- 📫 You can reach out to me by email noorunnabi1999@gmail.com
 
 <!---
 noorunanbi1999/noorunanbi1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
