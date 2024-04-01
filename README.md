@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noorunanbi1999
 - 👀 I’m interested in Web devlopment,Data Analytics.
-- 🌱 I’m currently learning Java,Python,Flask,R.
+- 🌱 I’m currently learning Java,Python,Dart.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach out to me on my email noorunnabi1999@gmail.com
 
