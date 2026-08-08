@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noorunanbi1999
-- 👀 I’m interested in Web devlopment.
-- 🌱 I’m currently learning Java,Python,Dart.
+- 👀 I’m interested in Backend Development (Python)
+- 🌱 I’m currently learning about Agentic AIs.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach out to me on my email noorunnabi1999@gmail.com
 
